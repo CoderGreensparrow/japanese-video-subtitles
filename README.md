@@ -6,6 +6,8 @@ As you can see, some parts of this are pretty specific.
 The transcription may differ in quality depending on the model used and the quality of the audio.
 Also, the furigana part doesn't work that well sometimes.
 
+**NOTE: You can use transcript_video_for_ssa.py for other languages other than japanese.**
+
 # Setup
 
 Install the following dependencies from PyPI:
