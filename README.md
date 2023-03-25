@@ -24,7 +24,7 @@ Install ffmpeg too and make sure it's accessible globally. (By setting to it in 
 
 ## Don't have subtitles
 
-If you have a video that you don't have ANY japanese subtitles for, just run fan_friendly_japanese_transcription_for_ssa.py and enter details as it requests (I recommend the base or medium model if you're computer's not that good).
+If you have a video that you don't have ANY japanese subtitles for, just run fan_friendly_japanese_transcription_for_ssa.py and enter details as it requests (I recommend the base or small model if you're computer's not that good).
 
 ## Have only japanese subtitles
 
