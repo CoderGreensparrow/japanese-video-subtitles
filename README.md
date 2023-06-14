@@ -8,6 +8,8 @@ Also, the furigana part doesn't work that well sometimes.
 
 **NOTE: You can use transcript_video_for_ssa.py for other languages other than japanese.**
 
+**Don't expect updates please, but if do you notice a bug, report it if you want to.**
+
 # Setup
 
 Install the following dependencies from PyPI:
