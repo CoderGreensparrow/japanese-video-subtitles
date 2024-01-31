@@ -1,0 +1,6 @@
+Janome==0.4.2
+jaconv==0.3.4
+translators==5.6.3
+subsy==1.0.0
+openai-whisper==20230314
+moviepy==1.0.3
